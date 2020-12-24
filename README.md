@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Shmuel Sahala!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Shmuel!
 
 I work as a ~~IT Networking & Security Specialist~~ Full-stack Engineer 
 who passionate about code and learning new stuff, based in Tel-Aviv, Israel.
